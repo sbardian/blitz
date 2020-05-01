@@ -5,6 +5,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "declarationDir": "./dist",
+    "declaration": true,
     "downlevelIteration": true,
     "esModuleInterop": true
   }

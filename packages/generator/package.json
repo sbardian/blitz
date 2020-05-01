@@ -24,8 +24,8 @@
     "email": "b@bayer.ws",
     "url": "https://twitter.com/flybayer"
   },
-  "main": "dist/packages/generator/src/index.js",
-  "module": "dist/packages/generator/src/index.esm.js",
+  "main": "dist/index.js",
+  "module": "dist/generator.esm.js",
   "types": "dist/packages/generator/src/index.d.ts",
   "keywords": [
     "blitz",
